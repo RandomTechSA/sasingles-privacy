@@ -1,0 +1,43 @@
+Child Safety Standards for SASingles
+Commitment to Child Safety
+SASingles is committed to ensuring a safe and secure environment for all users, with a particular focus on protecting minors from child sexual abuse and exploitation (CSAE). Our app complies with all relevant local, national, and international laws, including those related to child safety and the prevention of Child Sexual Abuse Material (CSAM).
+We strictly prohibit any content or behavior that exploits, endangers, or violates the safety of minors. Our policies and moderation practices are designed to prevent, detect, and report any instances of CSAE or CSAM in accordance with legal and regulatory requirements.
+Policies and Practices
+1. Content Moderation
+
+Prohibited Content: SASingles maintains a comprehensive list of banned words and phrases, including terms related to child sexual abuse, exploitation, or inappropriate content. Any user-generated content (e.g., names, bios, or images) is screened against this list to prevent harmful material from being uploaded or shared.
+Image Validation: All uploaded images are restricted to JPEG format and are validated to ensure they do not contain prohibited content. Images are stored securely in Firebase Storage and are subject to review for compliance with child safety standards.
+User Reporting: SASingles provides an in-app reporting mechanism that allows users to flag content or behavior that may violate our child safety policies. Reports are prioritized and reviewed promptly by our moderation team.
+
+2. Age Restrictions
+
+SASingles enforces a strict minimum age requirement of 18 years for all users. During profile creation, users must provide their age, which is validated to ensure it falls within the acceptable range (18–99). This restriction prevents minors from accessing or using the app.
+
+3. Compliance with Laws
+
+SASingles complies with all relevant child safety laws, including but not limited to:
+South African laws, such as the Films and Publications Act, 1996 (as amended), which governs the prevention of child sexual abuse material.
+International standards, such as those outlined by the United Nations Convention on the Rights of the Child.
+Google Play’s Developer Program Policies on child endangerment.
+
+
+We report any detected or suspected CSAM to the appropriate regional and national authorities, such as the South African Police Service (SAPS) or international bodies like the National Center for Missing and Exploited Children (NCMEC), as required by law.
+
+4. User Data Protection
+
+User data, including profile information and images, is stored securely using Firebase Authentication, Firestore, and Storage with strict access controls.
+Location data is restricted to South Africa (RSA) and is only collected with user consent, ensuring compliance with privacy laws like the Protection of Personal Information Act (POPIA) in South Africa.
+
+Reporting Mechanisms
+
+In-App Reporting: Users can report child safety concerns directly within the SASingles app. To learn more about reporting requirements, visit the Google Play Help Center.
+External Reporting: Suspected violations can also be reported to our designated contact email for CSAM prevention practices: sasinglesapp@gmail.com. Our team is prepared to respond promptly to inquiries from authorities or Google Play regarding child safety compliance.
+
+Designated Contact
+For inquiries related to SASingles’ child safety and CSAM prevention practices, please contact:
+Email: sasinglesapp@gmail.comThis email is monitored by our compliance team, who are ready to address concerns and provide information about our policies and procedures.
+Reporting to Authorities
+SASingles is committed to cooperating with law enforcement and reporting any detected CSAM to the relevant authorities. For more information on reporting obligations, refer to the Google Play Help Center.
+Updates to This Policy
+We regularly review and update our child safety standards to ensure ongoing compliance with evolving laws and best practices. Any changes to this policy will be reflected on this page, and users will be notified of significant updates through the app.
+For further questions or to report a concern, please contact us at sasinglesapp@gmail.com.
